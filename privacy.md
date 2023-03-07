@@ -1,6 +1,4 @@
-# Sonnen Buddy
-
-## Privacy Policy
+### Privacy Policy
 
 ByteStack built the Sonnen Buddy app as a free app. This SERVICE is provided by ByteStack at no cost and is intended for use as is.
 
