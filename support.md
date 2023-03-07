@@ -1,4 +1,6 @@
-# Support - Sonnen Buddy
+# Support
+
+If you have any questions, then please contact da@bytestack.dk
 
 ## FAQ
 
