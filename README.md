@@ -1,1 +1,1 @@
-# sonnenbuddy - aha
+# SonnenBuddy
