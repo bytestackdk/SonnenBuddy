@@ -20,5 +20,8 @@ The app communicates with the sonnen product directly using an API that’s not 
 **Where’s the historical data I’m used to seeing in the my sonnen app?**<br>
 The Sonnen Buddy app can only get the data that’s on your sonnen product, and the historical data is not stored there. So you still need the my sonnen app to see that data.
 
+**I get an error saying something with "401 Unauthorized" - What should I do?**<br>
+Make sure that you have the correct API token from the sonnenBatterie web interface and have enabled Read API and Write API. Re-run the setup using the reset button under Settings if necessary.
 
+<br><br>
 This FAQ will constantly be developed as new common questions arise.
